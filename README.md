@@ -1,3 +1,1 @@
-# cormacomalley.github.io
-
-personal website
+mac-coder1.github.io
